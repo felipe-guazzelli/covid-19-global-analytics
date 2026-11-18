@@ -1,6 +1,6 @@
 # COVID-19 Global Analytics
 
-[**View Interactive Dashboard →**](SEU_LINK_COMPLETO_DO_POWER_BI)
+[**View Interactive Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiOGM1YzI4ZjAtODlmMS00ZDQxLWE1NzUtMjc2ZTRjNjJlNzcyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&embedImagePlaceholder=true&pageName=3f947c99ce99b001079b)
 
 **Global Pandemic Trends | Vaccination Coverage | Health Outcomes**
 
