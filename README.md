@@ -1,3 +1,16 @@
+## Dashboard & Analysis
+
+[View Interactive Dashboard — Power BI](SEU_LINK_PUBLICO)
+
+### Global Overview
+![Global Overview](images/Global_overview.png)
+
+### COVID-19: Income & Health Outcomes
+![Income & Health Outcomes](images/Income%20%26%20Health%20Outcomes.png)
+
+### Methodology & Data
+![Methodology & Data](images/Methodology%20and%20Data.png)
+
 # COVID-19 Global Analytics
 
 **Global Pandemic Trends | Vaccination Coverage | Health Outcomes**
