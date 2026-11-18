@@ -4,7 +4,7 @@ Interactive Power BI dashboard developed to analyze the global evolution of COVI
 
 ## Dashboard Access
 
-[**View Interactive Dashboard →**](https://app.powerbi.com/view?r=...)
+[**View Interactive Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiOGM1YzI4ZjAtODlmMS00ZDQxLWE1NzUtMjc2ZTRjNjJlNzcyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&embedImagePlaceholder=true&pageName=3f947c99ce99b001079b)
 
 ## Dashboard Pages
 
