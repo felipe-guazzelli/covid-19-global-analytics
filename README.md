@@ -1,16 +1,3 @@
-## Dashboard & Analysis
-
-[View Interactive Dashboard — Power BI](SEU_LINK_PUBLICO)
-
-### Global Overview
-![Global Overview](images/Global_overview.png)
-
-### COVID-19: Income & Health Outcomes
-![Income & Health Outcomes](images/Income%20%26%20Health%20Outcomes.png)
-
-### Methodology & Data
-![Methodology & Data](images/Methodology%20and%20Data.png)
-
 # COVID-19 Global Analytics
 
 **Global Pandemic Trends | Vaccination Coverage | Health Outcomes**
@@ -108,6 +95,20 @@ The final analytical model underwent structural and referential integrity checks
 The analysis identifies patterns and associations; it does not establish causal relationships.
 
 ## 7. Dashboard & Analysis
+
+## Dashboard & Analysis
+
+[View Interactive Dashboard — Power BI](SEU_LINK_PUBLICO)
+
+### Global Overview
+![Global Overview](images/Global_overview.png)
+
+### COVID-19: Income & Health Outcomes
+![Income & Health Outcomes](images/Income%20%26%20Health%20Outcomes.png)
+
+### Methodology & Data
+![Methodology & Data](images/Methodology%20and%20Data.png)
+
 
 The Power BI report is structured into three sections:
 
