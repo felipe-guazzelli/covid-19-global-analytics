@@ -1,5 +1,7 @@
 # COVID-19 Global Analytics
 
+[**View Interactive Dashboard →**](SEU_LINK_COMPLETO_DO_POWER_BI)
+
 **Global Pandemic Trends | Vaccination Coverage | Health Outcomes**
 
 ## 1. Project Overview
